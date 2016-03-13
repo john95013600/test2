@@ -4,7 +4,7 @@
 // 	this.size = size;
 // 	this.weight = function() {
 // 		return size+"kg";
-newewewewe
+testing
 
 // };
 
