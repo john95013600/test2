@@ -4,7 +4,8 @@
 // 	this.size = size;
 // 	this.weight = function() {
 // 		return size+"kg";
-// 	asdadadsadasd
+newewewewe
+
 // };
 
 // var c = new box(5);
